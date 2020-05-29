@@ -3,3 +3,6 @@ pen
 drinking glass
 computer
 phone
+watch
+keyboard
+keys
