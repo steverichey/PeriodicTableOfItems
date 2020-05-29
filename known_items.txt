@@ -1,0 +1,5 @@
+pencil
+pen
+drinking glass
+computer
+phone
