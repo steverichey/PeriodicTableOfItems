@@ -6,3 +6,13 @@ phone
 watch
 keyboard
 keys
+sword
+shoe
+ring
+crayon
+donut
+hatchet
+wrench
+ruler
+screwdriver
+eyeglasses
