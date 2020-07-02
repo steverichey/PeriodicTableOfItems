@@ -16,3 +16,8 @@ wrench
 ruler
 screwdriver
 eyeglasses
+compact disc
+basketball
+baseball
+football
+bowl
